@@ -1,0 +1,12 @@
+1.Number of primitive data types in Java are?,6,7,8,9,c
+2.What is the size of float and double in java?,32 and 64,32 and 32,64 and 64,64 and 32,a
+3.Automtaic type conversion is possible in?,Byte to int,Int to Long,Long to int,short to int,b
+4.Select a valid statement.,char[] ch= new char(5),char[] ch=new char[5],char[] ch= new char(),char[] ch= new char[],b
+" 
+5.Select the valid statement to declare and initialize an array.",int[] A={},"int[] A=(1,2,3)","int[] A=[1,2,3}","int[][] A={1,2,3}",c
+"
+6.Arrays in java are-",Object references,Objects,Primitive datatypes,None,b
+7.When is the object created with new keyword?,At run time,At compile time,Depends on the code,None,a
+8.compareTo() returns,TRUE,FALSE,An int value,None,c
+9.class string belong to?,java.lang,java.awt,java.applet,java.string,a
+10.Total constructor string class have?,3,7,13,20,c

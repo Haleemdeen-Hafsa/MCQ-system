@@ -1,0 +1,10 @@
+1.Tag used to indicate page start?,<body>,<html>,<head>,<doctype!>,b
+2.How many sizes of header are available?,5,1,3,6,d
+3.What is the smallest header?,h1,h2,h6,h4,c
+4.what are the types of list available?,"Ordered, Unordered","Bulleted, Numbered","Named, Unnamed",None,a
+5.Which character is used to represent the closing of a tag in HTML?,\,!,/,.,c
+6.What extension is used to save HTML file?,.html,.h,.ht,None,a
+7.We enclose HTML tages within?,{ },< > ,! !,None,b
+8.How to display preformatted text in HTML?,<p>,<pre>,<hr>,All above,b
+9.Attribute used to provide a unique name?,id,class,type,None,a
+10.How are quotations defined in HTML?,<quote>,<block>,<blockquote>,None,c
